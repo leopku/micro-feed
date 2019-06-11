@@ -96,7 +96,7 @@ mutation {
 
 ### Telegram group
 
-TODO
+https://t.me/joinchat/BTEzgBdAx6eQKVZj7mFPbA
 
 ### Github Issue
 
