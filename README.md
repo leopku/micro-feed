@@ -6,7 +6,7 @@ Micro-Feed an extremely small size feed sync service with GraphQL support(also a
 
 ### Micro Size
 
-Extremely binary size and docker image size.
+Extremely small binary size and docker image size.
 
 Docker image size is <10MB.
 
