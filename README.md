@@ -43,7 +43,7 @@ Docker image size is <10MB.
 
 ### Playground
 
-* `http://localhost:9300`
+* `http://localhost:8300`
 
 ### Play with GraphQL 
 
@@ -94,7 +94,11 @@ mutation {
 
 ## Issue reporting & Suggestion
 
-### Telegram group
+### Telegram Channel
+
+https://t.me/microfeed2019
+
+### Telegram Group
 
 https://t.me/joinchat/BTEzgBdAx6eQKVZj7mFPbA
 
