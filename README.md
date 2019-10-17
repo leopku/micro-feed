@@ -27,9 +27,15 @@ Docker image size is <10MB.
 * Atom 0.3
 * Atom 1.0
 
+## Release
+
+### Binary
+
+https://github.com/leopku/micro-feed/releases
+
 ## Docker
 
-### Docker image location
+### Docker
 
 [https://hub.docker.com/r/leopku/micro-feed-community](https://hub.docker.com/r/leopku/micro-feed-community)
 
