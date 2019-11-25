@@ -2,6 +2,10 @@
 
 Micro-Feed an extremely small size feed sync service with GraphQL support(also a graphql playground). https://github.com/leopku/micro-feed
 
+## Q群
+
+946315845
+
 ## Screenshot
 
 ![screenshot for micro-feed](https://raw.githubusercontent.com/leopku/micro-feed/master/photo_2019-09-23_19-15-58.jpg)
