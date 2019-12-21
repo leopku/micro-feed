@@ -8,7 +8,7 @@ Micro-Feed an extremely small size feed sync service with GraphQL support(also a
 
 ## Screenshot
 
-![screenshot for micro-feed](https://raw.githubusercontent.com/leopku/micro-feed/master/c65633ca-f7d7-4315-ba50-650364d58df9.png.jpg)
+![screenshot for micro-feed](https://raw.githubusercontent.com/leopku/micro-feed/master/c65633ca-f7d7-4315-ba50-650364d58df9.png)
 
 ## Features
 
