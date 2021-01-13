@@ -53,7 +53,7 @@ https://github.com/leopku/micro-feed/releases
 
 ### Playground
 
-* `http://localhost:8300`
+* `http://localhost:8300/graphql`
 
 ### Play with GraphQL 
 
