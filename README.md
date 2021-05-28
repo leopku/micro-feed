@@ -1,6 +1,6 @@
 # Micro Feed
 
-Micro-Feed an extremely small size feed sync service with GraphQL support(also a graphql playground). https://github.com/leopku/micro-feed
+Micro-Feed an extremely small size feed sync service with beautiful GUI, GraphQL support(also a graphql playground) support. https://github.com/leopku/micro-feed
 
 ## Q群
 
